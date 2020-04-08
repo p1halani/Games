@@ -1,0 +1,7 @@
+README.md
+setup.py
+maze/maze-solver.py
+maze.egg-info/PKG-INFO
+maze.egg-info/SOURCES.txt
+maze.egg-info/dependency_links.txt
+maze.egg-info/top_level.txt

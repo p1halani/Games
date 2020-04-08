@@ -11,6 +11,14 @@ Breadth First Search was used in 'maze-solve.py'. To generate the mazes, an onli
   - OpenCV 3.4
   - Python 3.6
 
+## Installation
+
+1) cd /path/to/Maze-Solver(Path finder)/maze/
+
+2) pip install -r requirements.txt
+
+3) pip install -e .
+
 ## Task Analysis
 
 ### OpenCV
@@ -25,4 +33,4 @@ OpenCV's application areas include:
 
 ## Usage
 
-If you want to use your own maze,put it in 'mazes' folder and type python3 solve.py mazes/your_maze.jpg
+If you want to use your own maze,put it in 'mazes' folder and type python3 maze-solver.py mazes/your_maze.jpg

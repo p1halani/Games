@@ -1,0 +1,2 @@
+# Basics
+opencv-python
